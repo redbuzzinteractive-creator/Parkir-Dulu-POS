@@ -1,0 +1,6 @@
+{
+  "name": "PARKIR DULU",
+  "description": "Sistem Pembukuan & Inventaris Kedai Kopi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

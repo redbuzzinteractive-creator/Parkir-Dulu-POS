@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@theme {
+  /* Match 'PARKIR DULU' pure black & dark charcoal theme */
+  --color-slate-50: #f9f9f9;
+  --color-slate-100: #f2f2f2;
+  --color-slate-200: #e5e5e5;
+  --color-slate-300: #d4d4d4;
+  --color-slate-400: #a3a3a3;
+  --color-slate-500: #737373;
+  --color-slate-600: #525252;
+  --color-slate-700: #333333; /* Darker border */
+  --color-slate-800: #1a1a1a; /* Dark charcoal card background */
+  --color-slate-900: #0f0f10; /* Pure black-adjacent background */
+  --color-slate-950: #060607; /* Extremely deep solid black */
+
+  /* Match 'PARKIR DULU' vibrant yellow theme */
+  --color-amber-50: #fffbeb;
+  --color-amber-100: #fef3c7;
+  --color-amber-200: #fde68a;
+  --color-amber-300: #fcd34d;
+  --color-amber-400: #fbbf24;
+  --color-amber-500: #facc15; /* Logo Yellow */
+  --color-amber-600: #eab308; /* Hover & main buttons yellow */
+  --color-amber-700: #ca8a04;
+  --color-amber-800: #854d0e;
+  --color-amber-900: #713f12;
+  --color-amber-950: #451a03;
+}
